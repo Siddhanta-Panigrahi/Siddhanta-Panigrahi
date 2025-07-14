@@ -1,5 +1,5 @@
 ## # 💫 Hi 👋, I'm Siddhanta Panigrahi
-## **A passionate Data Analyst Aspirant || Software Engineer || Kafka Admin from India**
+## **A Passionate Data Analyst Aspirant || Software Engineer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **siddhantapanigrahi273@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
