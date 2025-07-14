@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhanta Panigrahi</h1>
 <h3 align="center">A Passionate Data Analyst Aspirant || Software Developer ||</h3>
+<h3 align="center">Email Me 👉 📧 siddhantapanigrahi273@gmail.com</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +17,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=Siddhanta-Panigrahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Siddhanta-Panigrahi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhanta-Panigrahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Siddhanta-Panigrahi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
